@@ -1,10 +1,10 @@
 // set style for lines and fill
 function TimezonesStyle(feature) {
     return {
-          fillColor: '#ff0000', // orange fill
+          fillColor: '#42c2f5', // orange fill
           fillOpacity: 0.0,  // set 0.0 for no fill, up to 1.0 for full cover
           color: '#ff4000', // orange lines
-          weight: 4,   // medium heavy lines
+          weight: 2,   // medium heavy lines
           opacity: 0.2  // slightly transparent lines
     };
 }
