@@ -3,7 +3,7 @@ function TimezonesStyle(feature) {
     return {
           fillColor: '#42c2f5', // fill
           fillOpacity: 0.0,  // set 0.0 for no fill, up to 1.0 for full cover
-          color: '#42c2f5', // lines
+          color: '#4284f5', // lines
           weight: 1,   // medium heavy lines
           opacity: 0.2  // slightly transparent lines
     };
